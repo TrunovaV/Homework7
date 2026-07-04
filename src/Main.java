@@ -97,7 +97,6 @@ public class Main {
                 System.out.println("Время зарядки составило " + minute + " минут");
                 break;
             }
-
         }
 
     }
